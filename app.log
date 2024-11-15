@@ -11997,3 +11997,85 @@ Traceback (most recent call last):
   File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\indexing.py", line 1377, in _validate_read_indexer
     raise KeyError(f"{not_found} not in index")
 KeyError: "['message'] not in index"
+2024-11-06 21:45:58,641 [ERROR] - get espn data
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_21272\3005869737.py", line 273, in get_espn_expert_data
+    df["game_id"] = df["Game"].apply(transform_game)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\series.py", line 4357, in apply
+    return SeriesApply(self, func, convert_dtype, args, kwargs).apply()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\apply.py", line 1043, in apply
+    return self.apply_standard()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\apply.py", line 1098, in apply_standard
+    mapped = lib.map_infer(
+             ^^^^^^^^^^^^^^
+  File "pandas\_libs\lib.pyx", line 2859, in pandas._libs.lib.map_infer
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_21272\3005869737.py", line 172, in transform_game
+    return teams[0] + teams[1]
+                      ~~~~~^^^
+IndexError: list index out of range
+2024-11-06 21:47:00,050 [ERROR] - get espn data
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_21272\3005869737.py", line 273, in get_espn_expert_data
+    df["game_id"] = df["Game"].apply(transform_game)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\series.py", line 4357, in apply
+    return SeriesApply(self, func, convert_dtype, args, kwargs).apply()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\apply.py", line 1043, in apply
+    return self.apply_standard()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\apply.py", line 1098, in apply_standard
+    mapped = lib.map_infer(
+             ^^^^^^^^^^^^^^
+  File "pandas\_libs\lib.pyx", line 2859, in pandas._libs.lib.map_infer
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_21272\3005869737.py", line 172, in transform_game
+    return teams[0] + teams[1]
+                      ~~~~~^^^
+IndexError: list index out of range
+2024-11-07 19:44:45,630 [ERROR] - get espn data
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_21272\3005869737.py", line 273, in get_espn_expert_data
+    df["game_id"] = df["Game"].apply(transform_game)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\series.py", line 4357, in apply
+    return SeriesApply(self, func, convert_dtype, args, kwargs).apply()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\apply.py", line 1043, in apply
+    return self.apply_standard()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\apply.py", line 1098, in apply_standard
+    mapped = lib.map_infer(
+             ^^^^^^^^^^^^^^
+  File "pandas\_libs\lib.pyx", line 2859, in pandas._libs.lib.map_infer
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_21272\3005869737.py", line 172, in transform_game
+    return teams[0] + teams[1]
+                      ~~~~~^^^
+IndexError: list index out of range
+2024-11-07 19:46:05,364 [ERROR] - get espn data
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_21272\2203913221.py", line 105, in <module>
+    df["game_id"] = df["Game"].apply(transform_game)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\series.py", line 4357, in apply
+    return SeriesApply(self, func, convert_dtype, args, kwargs).apply()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\apply.py", line 1043, in apply
+    return self.apply_standard()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adams\anaconda3\Lib\site-packages\pandas\core\apply.py", line 1098, in apply_standard
+    mapped = lib.map_infer(
+             ^^^^^^^^^^^^^^
+  File "pandas\_libs\lib.pyx", line 2859, in pandas._libs.lib.map_infer
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_21272\2203913221.py", line 4, in transform_game
+    return teams[0] + teams[1]
+                      ~~~~~^^^
+IndexError: list index out of range
+2024-11-14 17:24:46,800 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
