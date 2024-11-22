@@ -12355,3 +12355,2079 @@ Traceback (most recent call last):
     week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:02:19,735 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:03:13,927 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:03:18,985 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:13:19,313 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:13:22,637 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:17:19,061 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:34:20,196 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:37:17,805 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:38:46,786 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:41:14,049 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:41:18,927 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:50:48,043 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:53:18,989 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:54:20,133 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 20:55:23,953 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 21:04:19,224 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 23:38:18,116 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 23:38:46,668 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 23:40:18,873 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 23:40:47,710 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 23:44:46,884 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 23:50:18,765 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 23:53:18,655 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-14 23:56:47,457 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 00:10:46,725 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 00:19:14,784 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 00:38:46,813 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 00:46:18,692 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 00:50:48,093 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 00:56:47,171 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 00:58:18,913 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:02:19,340 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:02:45,961 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:03:13,790 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:07:16,565 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:23:15,070 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:26:18,901 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:28:19,476 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:29:18,741 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:32:18,840 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:33:18,822 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 01:39:18,747 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:00:47,535 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:07:18,777 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:14:47,165 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:17:14,867 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:25:15,433 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:25:18,796 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:26:47,110 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:30:19,152 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:36:19,447 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:39:18,023 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:44:18,473 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:44:46,948 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:49:16,365 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:55:13,034 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:56:46,967 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:57:14,962 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 02:58:18,858 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:02:20,395 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:10:17,954 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:12:19,002 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:13:14,844 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:13:18,623 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:14:47,831 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:15:15,802 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:16:19,740 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:23:15,687 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:24:46,838 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:30:46,276 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:34:19,389 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:42:19,401 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:49:18,741 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 03:51:15,084 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:03:22,729 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:04:47,235 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:28:47,299 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:44:18,921 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:44:47,927 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:46:18,492 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:52:19,097 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:55:18,811 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:56:19,295 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:57:18,751 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 04:59:16,376 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:00:47,195 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:04:19,280 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:08:46,859 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:13:16,043 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:24:49,536 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:28:46,663 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:31:14,717 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:36:47,660 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:38:47,219 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:39:17,813 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:40:18,771 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:56:46,815 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 05:57:18,834 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:02:47,029 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:04:18,132 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:24:20,060 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:26:21,123 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:26:46,160 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:38:46,863 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:39:13,957 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:39:19,794 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:50:18,850 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:51:16,658 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:52:45,911 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:53:13,867 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:54:45,950 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:57:21,351 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 06:59:16,950 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:01:13,915 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:07:19,347 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:12:19,131 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:13:18,693 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:24:20,203 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:28:49,576 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:32:46,921 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:39:15,654 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:40:47,133 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:42:19,210 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:45:14,928 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:45:19,531 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:51:17,031 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 07:55:18,665 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:08:21,864 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:16:47,057 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:23:15,039 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:27:16,057 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:29:17,623 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:33:15,785 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:36:20,355 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:36:46,765 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:51:19,718 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:52:47,099 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:53:18,841 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 08:57:18,801 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:02:21,295 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:03:16,043 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:05:19,385 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:13:15,946 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:25:16,087 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:28:20,215 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:33:14,775 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:38:46,870 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:39:14,890 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:44:48,018 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:46:18,922 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:50:20,117 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:52:18,802 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:54:47,270 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:55:16,040 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 09:58:48,596 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 10:01:15,906 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 10:08:48,293 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 10:16:18,957 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 10:22:46,722 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 10:26:19,092 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 10:28:18,877 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 10:43:14,933 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 10:44:20,211 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 10:45:14,724 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 10:55:18,847 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:02:46,747 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:04:19,836 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:06:46,040 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:07:18,988 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:13:17,915 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:14:18,718 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:17:18,650 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:32:47,809 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:38:18,938 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:39:18,977 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:40:18,078 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:41:18,830 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:48:20,227 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:50:20,501 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:54:46,857 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:58:47,153 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 11:59:13,934 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:02:46,760 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:05:15,207 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:08:20,023 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:12:46,866 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:13:18,857 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:16:47,009 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:27:18,905 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:33:18,705 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:36:18,125 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:38:46,918 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:48:46,960 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:49:20,087 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:55:18,978 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 12:57:20,128 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:00:45,922 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:01:20,021 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:04:18,956 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:09:16,925 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:09:18,766 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:10:18,885 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:13:18,049 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:24:48,803 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:26:46,745 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:27:19,972 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:32:48,132 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:33:17,128 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:34:47,648 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:39:18,876 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:43:18,888 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:45:18,751 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:47:14,697 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:48:19,903 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:50:45,981 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 13:54:46,990 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:02:46,751 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:06:46,868 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:09:18,709 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:17:18,697 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:20:19,773 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:31:17,890 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:33:14,002 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:33:19,231 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:34:20,199 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:35:18,626 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:35:19,419 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:43:17,718 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:48:47,777 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:50:19,709 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:51:18,888 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:54:47,210 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:56:46,999 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 14:57:19,456 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:01:13,668 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:03:15,763 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:04:19,933 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:08:45,992 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:11:19,446 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:13:15,917 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:14:20,377 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:16:20,129 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:17:40,615 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:24:18,937 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:28:49,358 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:34:19,113 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:35:18,728 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:37:18,790 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:41:15,186 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:41:18,765 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:43:20,031 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:50:46,786 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 15:57:18,911 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:02:45,973 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:04:19,261 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:08:47,785 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:11:16,799 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:11:18,740 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:15:14,747 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:25:14,751 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:26:18,895 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:26:46,788 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:28:18,738 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:28:46,708 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:32:17,972 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:32:47,419 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:39:16,041 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:40:46,928 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:51:15,829 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:52:47,211 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:57:16,445 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:57:19,078 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:58:18,997 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 16:58:47,875 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:00:45,976 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:02:19,211 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:04:46,852 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:09:14,720 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:09:18,666 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:14:18,895 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:19:18,738 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:28:17,933 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:31:16,671 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:36:20,074 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:36:47,247 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:37:14,697 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:48:47,003 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:50:46,962 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:53:18,912 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 17:56:18,921 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:05:18,995 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:08:19,199 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:09:18,667 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:17:14,051 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:18:19,094 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:21:14,961 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:25:16,262 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:25:18,689 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:29:16,971 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:34:46,954 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:39:13,974 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:40:46,840 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:48:47,372 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:50:47,160 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 18:54:18,965 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 19:02:18,020 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 19:04:18,822 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 19:14:18,797 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 19:27:19,184 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 19:30:45,956 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 19:33:15,903 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 19:40:46,739 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 19:48:18,725 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:06:47,489 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:07:16,877 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:13:14,865 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:18:46,044 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:21:14,824 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:32:46,775 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:34:20,277 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:34:47,713 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:39:14,843 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:49:15,786 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:51:14,061 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:51:19,778 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:53:15,828 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:54:47,756 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:57:19,035 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 20:59:15,800 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 21:04:18,934 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 21:09:14,669 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 21:11:18,795 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 21:13:18,738 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-15 21:14:20,005 [ERROR] - get espn data, 'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Users\adams\AppData\Local\Temp\ipykernel_18016\1677999731.py", line 201, in get_espn_expert_data
+    week = soup.find('h1', class_='headline headline__h1 dib').get_text(strip=True).split('- ')[1]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+2024-11-21 20:51:07,821 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'O'
+2024-11-21 20:51:07,823 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '47.5'
+2024-11-21 20:53:26,125 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'O'
+2024-11-21 20:53:26,126 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '47.5'
+2024-11-21 20:56:49,794 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'O'
+2024-11-21 20:56:49,795 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '47.5'
+2024-11-21 21:09:52,359 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'O'
+2024-11-21 21:09:52,367 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '47.5'
+2024-11-21 21:10:36,074 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'O'
+2024-11-21 21:10:36,075 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '47.5'
+2024-11-21 21:11:37,150 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'O'
+2024-11-21 21:11:37,150 [ERROR] - Convert to int error
+Traceback (most recent call last):
+  File "c:\Users\adams\Code\NFL - Azure\utils\helper_functions.py", line 121, in convert_to_int
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '47.5'
